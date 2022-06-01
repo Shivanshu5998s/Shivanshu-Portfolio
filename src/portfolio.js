@@ -137,8 +137,8 @@ export const details = [
     Access API data without buffering`,
     tech: `Tech Stack: HTML | CSS | JavaScript`,
     img: "https://github.com/Shivanshu5998s/Images/blob/main/Expedia%20Home.png?raw=true",
-    link: "https://dazzling-pithivier-eb2792.netlify.app/",
-    github: "https://github.com/Shivanshu5998s/expedia"
+    github: "https://github.com/Shivanshu5998s/expedia",
+    link: "https://clone-of-expedia-website.netlify.app/"
   },
 
   {
@@ -151,8 +151,8 @@ export const details = [
     Access API data without buffering`,
     tech: `Tech Stack: HTML | CSS | JavaScript`,
     img: "https://miro.medium.com/max/875/1*Wqf2L6kZ4SguVw84m8_WtA.png",
-    link: "https://github.com/Shivanshu5998s/boat-lifestyle",
     github: "https://github.com/Shivanshu5998s/boat-lifestyle",
+    link: "https://clone-of-boat-website.netlify.app/",
   },
 
   {
@@ -166,8 +166,8 @@ export const details = [
     Apply Promocode & Payment`,
     tech: `Tech Stack: HTML | CSS | Javascript | Advance JS | ES6`,
     img: "https://miro.medium.com/max/875/1*fSLFF-Ckmjz68c3JgEnBHw.png",
-    github: "https://github.com/jitender004/strawberrynet06",
-    link: "https://github.com/jitender004/strawberrynet06",
+    github: "https://github.com/Shivanshu5998s/Strawberrynet",
+    link: "https://clone-of-strawaberrynet-website.netlify.app/",
   },
 
   {
@@ -183,7 +183,7 @@ export const details = [
     tech: `Tech Stack: HTML | CSS | Javascript | Advance JS | ES6`,
     img: "https://miro.medium.com/max/875/1*4wCVd43VXLrBlbrfp_t49Q.png",
     github: "https://github.com/Shivanshu5998s/India-MART",
-    link: "https://github.com/Shivanshu5998s/India-MART"
+    link: "https://clone-of-indiamart-website.netlify.app/"
   },
 
   {
@@ -201,8 +201,8 @@ export const details = [
     Add to cart option for buying products`,
     tech: `Tech Stack:  React | Redux | HTML 5 | CSS 3 | JavaScript | GitHub | Bootstrap | Postman | Tailwind CSS | GitHub | ParseHub | Context API | FontAwesome | Material UI.`,
     img: "https://miro.medium.com/max/875/1*ZArTvqq6xux_cXUKf43wuA.png",
-    link: "https://bobbi-brown-clone-arshad-abhinav-yogesh-shivanshu-rahul-nikesh.netlify.app/",
     github: "https://github.com/Shivanshu5998s/Bobbi-Brown-Cosmetics",
+    link: "https://bobbi-brown-clone-arshad-abhinav-yogesh-shivanshu-rahul-nikesh.netlify.app/",
   },
 ];
 
